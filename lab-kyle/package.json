@@ -1,0 +1,26 @@
+{
+  "name": "lab-kyle",
+  "version": "0.0.1",
+  "description": "Node Begginer Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krichey15/nodebeginnerbook.git"
+  },
+  "author": "richey.kyle.i@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krichey15/nodebeginnerbook/issues"
+  },
+  "homepage": "https://github.com/krichey15/nodebeginnerbook#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
